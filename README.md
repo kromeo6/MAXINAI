@@ -1,3 +1,3 @@
 # MAXINAI
-for maxinai homeworks,works and cetera
+for maxinai homeworks,works and cetera;
 Roman Kutubidze
